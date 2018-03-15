@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>SystemService</AssemblyName>
+    <PackageId>SystemService</PackageId>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <Version>1.0.0</Version>
+    <PackageReleaseNotes>System Service Library 1.0.0.0</PackageReleaseNotes>
+    <Authors>https://www.github.com/dersia</Authors>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Description>System Service Library for running daemons in .NET Core</Description>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <LangVersion>7.1</LangVersion>
+  </PropertyGroup>
+
+</Project>
